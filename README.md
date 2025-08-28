@@ -11,7 +11,6 @@
   I usually study as a game programmer.<br>
   In my spare time, I createMinecraft modpackand engage in various other activities.
 </p>
-
 <p align="left">
   <a href="https://github.com/huraru7">
     <img src="https://komarev.com/ghpvc/?username=huraru7" alt="huraru7" />
@@ -24,17 +23,10 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=huraru7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- GitHub Stats -->
 
-  <!-- GitHub Stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huraru7&hide=contribs,prs&theme=one_dark_pro)
+## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huraru7&theme=one_dark_pro)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huraru7&theme=one_dark_pro&layout=donut&langs_count=6)
 
-<!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huraru7&theme=one_dark_pro&layout=donut&langs_count=6)](https://github.com/huraru7/github-readme-stats)
-
----
-
-<!-- 神秘的なバッジやアイコン -->
 <p align="center">
   <a href="https://x.com/huraru_7"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="TwitterAccount" /></a>
 </p>
