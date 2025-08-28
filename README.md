@@ -6,25 +6,35 @@
 
 ### 🌟 About Me
 
-<p align="center" style="font-size: 18px; color: #6a8ae9ff; font-weight: bold;">
-  This is <span style="color: #ff4500;">huraru</span>.<br>
+<p align="center">
+  This is huraru <br>
   I usually study as a game programmer.<br>
-  In my spare time, I create <span style="color: #32cd32;">Minecraft modpack</span> and engage in various other activities.
+  In my spare time, I createMinecraft modpackand engage in various other activities.
 </p>
 
+<p align="left">
+  <a href="https://github.com/huraru7">
+    <img src="https://komarev.com/ghpvc/?username=huraru7" alt="huraru7" />
+  </a>
+  <a href="http://twitter.com/huraru_7">
+    <img height="20" src="https://img.shields.io/twitter/follow/huraru_7?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/huraru7">
+    <img height="20" src="https://img.shields.io/github/followers/huraru7?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=huraru7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
   <!-- GitHub Stats -->
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=huraru7&theme=one_dark_pro">
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huraru7&hide=contribs,prs&theme=one_dark_pro)
+
 <!-- Top Languages -->
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huraru7&theme=one_dark_pro&layout=donut&langs_count=6">
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huraru7&theme=one_dark_pro&layout=donut&langs_count=6)](https://github.com/huraru7/github-readme-stats)
 
 ---
 
 <!-- 神秘的なバッジやアイコン -->
 <p align="center">
   <a href="https://x.com/huraru_7"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="TwitterAccount" /></a>
-  <a href="https://github.com/huraru7"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
