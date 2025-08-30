@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=4169e1&center=true&vCenter=true&width=435&lines=hello!+I+am+huraru;Welcome+to+my+profile"alt="Mystic Welcome"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=4169e1&center=true&vCenter=true&width=600&lines=hello!+I+am+huraru;Welcome+to+my+profile"alt="Mystic Welcome"/>
 </p>
 
 ---
@@ -23,9 +23,11 @@
   </a>
 </p>
 <!-- GitHub Stats -->
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=huraru7&theme=one_dark_pro" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huraru7&theme=one_dark_pro&layout=donut&langs_count=6" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huraru7&theme=one_dark_pro)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huraru7&theme=one_dark_pro&layout=donut&langs_count=6)
 ![trophy](https://github-profile-trophy.vercel.app/?username=huraru7&theme=aura)
 
 ---
