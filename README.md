@@ -7,7 +7,7 @@
 ### 🌟 About Me
 
 <p align="center">
-  This is huraru <br>
+  This is huraru! <br>
   I usually study as a game programmer.<br>
   In my spare time, I createMinecraft modpackand engage in various other activities.
 </p>
@@ -22,6 +22,7 @@
     <img height="20" src="https://img.shields.io/github/followers/huraru7?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
 <!-- GitHub Stats -->
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=huraru7&theme=one_dark_pro" />
