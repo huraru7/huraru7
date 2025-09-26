@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=4169e1&center=true&vCenter=true&width=600&lines=hello!+I+am+huraru;Welcome+to+my+profile"alt="Mystic Welcome"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=4169e1&center=true&vCenter=true&width=600&lines=hello!+I+am+huraru;Welcome+to+huraru+profile"alt="Mystic Welcome"/>
 </p>
 
 ---
 
 ### 🌟 About Me
-
 <p align="center">
   This is huraru! <br>
   I usually study as a game programmer.<br>
